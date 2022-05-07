@@ -15,5 +15,5 @@ During this course, the following sections are covered
 - Git merge
 - Github
 - Pull Requests
-- Exploring GiHub
+- Exploring GitHub
 - Open Source Software

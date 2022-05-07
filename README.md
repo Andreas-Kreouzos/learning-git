@@ -1,5 +1,8 @@
 # Git and Github Course
 
+
+<div dir="justify"> Continuing my journey in becoming a software engineer, the knowledge of GitHub is a necessity that had to tackle as soon as possible, and during my search on Internet for courses on this topic, I saw the [Amigoscode Git & GitHub Course](https://amigoscode.com/p/git-github). I gave it a go and I immediatelly appreciated the way that Nelson provided his knowledge to anyone that follows the path of software engineering as me. </div>
+
 <div style="text-align: justify"> Continuing my journey in becoming a software engineer, the knowledge of GitHub is a necessity that had to tackle as soon as possible, and during my search on Internet for courses on this topic, I saw the [Amigoscode Git & GitHub Course](https://amigoscode.com/p/git-github). I gave it a go and I immediatelly appreciated the way that Nelson provided his knowledge to anyone that follows the path of software engineering as me. </div>
 
 Continuing my journey in becoming a software engineer, the knowledge of GitHub is a necessity that had to tackle as soon as possible, and during my search on Internet for courses on this topic, I saw the [Amigoscode Git & GitHub Course](https://amigoscode.com/p/git-github). I gave it a go and I immediatelly appreciated the way that Nelson provided his knowledge to anyone that follows the path of software engineering as me.

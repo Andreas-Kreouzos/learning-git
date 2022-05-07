@@ -4,6 +4,8 @@ Continuing my journey in becoming a software engineer, the knowledge of GitHub i
 
 ![Amigoscode Git   GitHub Course](https://user-images.githubusercontent.com/77160233/167264570-d5700190-2433-49b8-acc6-b8365ea5a183.png)
 
+The files included in this repo don't include any piece of code, because they were just used for demonstration purposes in order to achieve better understanding about GitHub and Git capabilities. Since I am Windows user, I used the Git Bash interface to follow the course and adopt to it better.
+
 During this course, the following sections are covered
 
 - What is Git
